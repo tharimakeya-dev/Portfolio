@@ -40,12 +40,7 @@ My personal portfolio website showcasing my projects, skills, experience and edu
 - JavaScript
 - Hosted on GitHub Pages
 
-## Run Locally
 
-```bash
-git clone https://github.com/tharimakeya-dev/tharimakeya-dev.github.io.git
-cd tharimakeya-dev.github.io
-```
 
 Then open `index.html` in your browser.
 
