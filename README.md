@@ -33,13 +33,6 @@ My personal portfolio website showcasing my projects, skills, experience and edu
 - **Bazar Dor:** daily market price tracker for everyday essentials in Bangladesh ([Live](https://bazardor-rhodsa.vercel.app))
 - **FitLog:** workout planning website built with Next.js and TypeScript ([Live](https://b-14-assingment-6.vercel.app))
 
-## Built With
-
-- HTML5
-- CSS3
-- JavaScript
-- Hosted on GitHub Pages
-
 
 
 Then open `index.html` in your browser.
